@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to javatechie";
+		return "Welcome to Clover Infotech from devops team! ";
 	}
 
 	public static void main(String[] args) {
